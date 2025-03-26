@@ -1,4 +1,6 @@
 == Changelog ==
+= 3.25.0326.1651 - 2026-03-26 =
+* Updater Verification
 = 3.25.0326.1632 - 2025-03-26 =
 * Implement new Updater
 = 2.25.0306.1127 - 2025-03-06 =
