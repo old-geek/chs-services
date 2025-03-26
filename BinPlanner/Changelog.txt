@@ -1,0 +1,69 @@
+== Changelog ==
+= 3.25.0326.1632 - 2025-03-26 =
+* Implement new Updater
+= 2.25.0306.1127 - 2025-03-06 =
+* Help / Support temporarily suspended while process is being revamped
+= 2.25.0219.1057 - 2025-02-19 =
+* Updaing process revamped to become more efficient
+= 2.24.0529.1919 - 2024-05-29 =
+* Bug Fix: Cut-List Bins Required - sometimes showed a ghosted background - this has been fixed
+* Security: RTF files can be exploited so these files have been converted to TXT format
+* Forms: Most have the word Version displayed in the bottom-right corner. The version number can now be seen by moving the mouse over this word.
+* Tweak: Help menus have been revised
+* Tweak: Disclaimer has been updated
+* Documentation: User Manual has been updated
+= 2.24.0427.1842 - 2024-04-27 =
+* Tweak: Forms - Some fields were misaligned - this has been fixed
+* Tweak: Help Menu - ReadMe has been removed since this option is available in the Application Start Menu
+* Tweak: EULA has been moved to the bottom-left corner of forms and now redirects to the most recent copy posted on the Website
+= 2.24.0120.1839 - 2024-01-20 =
+* Tweak: Cosmetic changes to Cut-List
+*    Data now centered in display areas
+*    Slight adjustments in positioning
+*    Minor changes to some descriptions
+= 2.24.0120.1404 - 2024-01-20 =
+* Tweak: Several Form sizes slightly increased
+* Fix: Copyright updated
+* Bug Fix: Folder location was dimmed and now clearly visible
+* Tweak: Some Fields have been increased in size
+* Bug Fix: Some forms could be moved off the screen - this is no longer possible but they can still be minimized
+= 2.24.0113.1601 - 2024-01-13 =
+* Tweak: Software Updates streamlined
+* Tweak: Application start-up informs user when files are being loaded
+* Tweak: Several updates to streamline future enhancements
+= 2.23.1221.1658 - 2023-12-21 =
+* Bug Fix: sometimes the Layout could be empty when data was present.
+* Tweak: Minor updates that improve performance
+= 2.23.1218.1138 - 2023-12-18 =
+* Feature: Support Option added to Help
+* Tweak: Other minor updates to improve performance
+= 2.23.1211.1239 - 2023-12-11 =
+* Tweak: Update process now informs user of its progress
+* Tweak: Cosmetic changes and minor bug fixes
+= 2.23.1208.1214 - 2023-12-08 =
+* Tweak: Improved performance of application update process
+* Minor bug fixes
+= 2.23.1117.1109 - 2023-11-17 =
+* Bug Fix Bottom Status Bar was getting distorted when form (window) was resized - no longer happens
+= 2.23.1116.1604 - 2023-11-16 =
+* Feature: Bottom area of most Forms (windows) have been revamped and provide more options
+* Bug Fix: Several minor bug fixes and cosmetic changes
+= 2.23.0303.1601 - 2023-03-03 =
+* Tweak: License content updated
+* Tweak: Readme files updated
+= 2.23.0301.1457 - 2023-03-01 =
+* Tweak: Error 504 reworded
+* Tweak: Project Name added to top of forms
+= 2.23.0218.1849 - 2023-02-18 =
+* Bug Fix: Hints State not being updated correctly - this has been fixed
+= 2.23.0216.1152 - 2023-02-16 =
+* Tweak: Application Updater improvements
+= 2.22.0625.1254 - 2022-06-25 =
+* Tweak: Corrected some minor typos in forms and docs
+= 2.21.0619.1534 - 2021-06-19 =
+* Tweak: Improved file handling
+* Bug Fix: Added checks for Project files with Read-Only status
+= 2.21.0611.1813 - 2021-06-11 =
+* Enhancement: Improved Hints in several Input Fields
+= 2.20.0725.1806 - 2020-07-25 =
+* Bug Fix: Some application files not validated - this has been fixed
