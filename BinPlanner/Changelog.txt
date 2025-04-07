@@ -1,5 +1,8 @@
 == Changelog ==
-= 3.25.0326.1651 - 2026-03-26 =
+= 3.25.0407.1532 - 2025-04-07 =
+* New interface
+* Several bug fixes
+= 3.25.0326.1651 - 2025-03-26 =
 * Updater Verification
 = 3.25.0326.1632 - 2025-03-26 =
 * Implement new Updater
