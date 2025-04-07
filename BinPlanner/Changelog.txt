@@ -1,4 +1,7 @@
 == Changelog ==
+= 3.25.0407.1616 - 2025-04-07 =
+* BugFix: Main Form (Help/UserGuide was not working - this has been fixed
+* BugFix: Main Form - Button to view Project had incorrect labelling - this has been fixed
 = 3.25.0407.1532 - 2025-04-07 =
 * New interface
 * Several bug fixes
