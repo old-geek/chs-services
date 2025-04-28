@@ -1,13 +1,11 @@
-== Changelog ==
-= 3.25.0407.1616 - 2025-04-07 =
+== ChangeLog: BinPlanner ==
+= 3.25.0407.1616, 1532 - 2025-04-07 =
 * BugFix: Main Form (Help/UserGuide was not working - this has been fixed
 * BugFix: Main Form - Button to view Project had incorrect labelling - this has been fixed
-= 3.25.0407.1532 - 2025-04-07 =
 * New interface
-* Several bug fixes
-= 3.25.0326.1651 - 2025-03-26 =
+* Several minor bug fixes
+= 3.25.0326.1651, 1632 - 2025-03-26 =
 * Updater Verification
-= 3.25.0326.1632 - 2025-03-26 =
 * Implement new Updater
 = 2.25.0306.1127 - 2025-03-06 =
 * Help / Support temporarily suspended while process is being revamped
@@ -24,12 +22,11 @@
 * Tweak: Forms - Some fields were misaligned - this has been fixed
 * Tweak: Help Menu - ReadMe has been removed since this option is available in the Application Start Menu
 * Tweak: EULA has been moved to the bottom-left corner of forms and now redirects to the most recent copy posted on the Website
-= 2.24.0120.1839 - 2024-01-20 =
+= 2.24.0120.1839, 1404 - 2024-01-20 =
 * Tweak: Cosmetic changes to Cut-List
 *    Data now centered in display areas
 *    Slight adjustments in positioning
 *    Minor changes to some descriptions
-= 2.24.0120.1404 - 2024-01-20 =
 * Tweak: Several Form sizes slightly increased
 * Fix: Copyright updated
 * Bug Fix: Folder location was dimmed and now clearly visible

@@ -1,4 +1,4 @@
-== Changelog ==
+== Changelog: BPStats ==
 = 3.25.0326.1834 - 2025-03-26 =
 * New version of Updater, Support still disabled
 = 2.25.0306.1131 - 2025-03-06 =

@@ -1,4 +1,4 @@
-== Changelog ==
+== Changelog: CabinetPlanner ==
 = 6.25.0426.1538 - 2025-04-26 =
 * Support and Donate removed from app until further notice
 * BugFix: Attempts to change a Folder location for Project failed to complete - this have been fixed
