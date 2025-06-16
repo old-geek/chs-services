@@ -1,4 +1,6 @@
 == ChangeLog: BinPlanner ==
+= 3.25.0616.1552 - 2025-06-16 =
+* Support option permanently removed from application
 = 3.25.0407.1616, 1532 - 2025-04-07 =
 * BugFix: Main Form (Help/UserGuide was not working - this has been fixed
 * BugFix: Main Form - Button to view Project had incorrect labelling - this has been fixed
