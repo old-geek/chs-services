@@ -1,158 +1,167 @@
 == Changelog: CabinetPlanner ==
 = 6.25.0426.1538 - 2025-04-26 =
-* Support and Donate removed from app until further notice
+* Tweak: Support and Donate removed from app until further notice
 * BugFix: Attempts to change a Folder location for Project failed to complete - this have been fixed
 = 5.25.0305.1829 - 2025-03-05 =
-* Cosmetic: The word EULA was confusing to some users - this have been reworded to License
+* Tweak: The word EULA was confusing to some users - this have been reworded to License
 = 5.25.0305.1042 - 2025-03-05 =
-* Changes made to updating process to improve efficiencies - requires fresh download and install of App
+* Critical: Changes made to updating process to improve efficiencies - requires fresh download and install of App
 = 5.24.0530.1011 - 2024-05-30 =
-* Several cosmetic changes, minor bug fixes, and Copyright change
-= 5.24.0122.1228 - 2024-01-22 =
+* Tweak: Several cosmetic changes, minor bug fixes, and Copyright change
 * minor changes to main interface
-= 5.24.0122.1028 - 2024-01-22 =
-* Cosmetic changes
-* - Forms can no longer be maximized
-* - Forms can no longer be moved off-screen
+= 5.24.0122.1008 - 2024-01-22 =
+* Tweak: Forms can no longer be maximized
+* Tweak: Forms can no longer be moved off-screen
 = 5.24.0117.1917 - 2024-01-17 =
-* Minor changes and bug fixes
+* Tweak: Minor changes and bug fixes
 = 5.24.0115.1131 - 2024-01-15 =
-* Many App changes to keep pace with latest Windows updates
+* Enhancement: Many App changes to keep pace with latest Windows updates
 = 5.23.1218.1409 - 2023-12-18 =
-* Cosmetic changes to Forms Alignments
+* Tweak: Cosmetic changes to Forms Alignments
 = 5.23.1211.1511 - 2023-12-11 =
-* Changes to updating process
+* Tweak: Changes to updating process
 = 5.23.1209.1234 - 2023.12.09 =
-* Cosmetic changes and minor bug fixes
+* Tweak: Cosmetic changes and minor bug fixes
 = 5.23.1117.1017 - 2023-11-17 =
-* StatusBar at bottom of Forms has been updated
+* Tweak: StatusBar at bottom of Forms has been updated
+* Tweak: Minor bug fixes and enhancements
 = 5.23.0301.1800 - 2023-03-01 =
-* Copyright added to StatusBar at bottom of Forms
+* Enhancement: Copyright added to StatusBar at bottom of Forms
 = 5.23.0221.1301 - 2023-02-21 =
-* Cosmetic changes to Help/About
+* Tweak: Cosmetic changes to Help/About
 = 5.23.0218.1852 - 2023-02-18 =
-* Cosmetic changes and minor bug fixes
+* Tweak: Cosmetic changes and minor bug fixes
 = 5.23.0217.1648 - 2023-02-17 =
-* Changes to Updating process
-* Other minor bug fixes and cosmetic changes
+* Tweak: Changes to Updating process
+* Tweak: Other minor bug fixes and cosmetic changes
 = 5.22.0709.1501 - 2022-07-09 =
-* Minor changes to Help Menus
+* Tweak: Minor changes to Help Menus
 = 5.22.0707.1609 - 2022-07-07 =
-* Updates to User Guide
+* Tweak: Updates to User Guide
 = 5.22.0518.1654 - 2022-05-18 =
-* Minor changes to Donations process
+* Tweak: Minor changes to Donations process
 = 5.22.0205.1821 - 2022-02-05 =
-* Minor bug fixes and cosmetic changes
-* Addition of Donations facility
+* Tweak: Minor bug fixes and cosmetic changes
+* Enhancement: Addition of Donations facility
 = 5.22.0106.1904 - 2022-01-06 =
-* Changes to Help/About option
+* Tweak: Changes to Help/About option
 = 5 21.1231.1121 - 2021-12-31 =
-* Adjusted Form sizes and positioning of content
+* Tweak: Adjusted Form sizes and positioning of content
 = 5.21.1230.1524 - 2021-12-30 =
-* Content of Cabinet Defaults reorganized
+* Enhancement: Content of Cabinet Defaults reorganized
 = 5.21.1228.1653 - 2021-12-28 =
-* BugFix: User could change content of Cabinet list - this is no longer possible
-* Enhancement: When no Cabinets in a Folder, a Default cabinet is inserted as a srarting point
-* Minor Bug fixes and cosmetic changes
-* Adjustments to Menu Items on Forms
+* BugFix: User could change content of Cabinet list - this has been fixed
+* Enhancement: When no Cabinets in a Folder, a Default cabinet is inserted as a starting point
+* Tweak: Minor Bug fixes and cosmetic changes
+* Tweak: Adjustments to Menu Items on Forms
 = 5.21.1227.1834 - 2021-12-27 =
-* Cabinet Input - several modifications to improve the process
-* Enhanced verification of required files
+* Tweak: Cabinet Input - several modifications to improve the process
+* Tweak: Improved verification of required files
 = 5.21.1223.1936 - 2021-12-23 =
-* Improved handling of some images
-* Minor updates to Error messages
+* Tweak: Improved handling of some images
+* Tweak: Improved Error messages
 = 5.21.1217.1430 - 2021-12-17 =
-* Project management streamlined
+* Enhancement: Project management streamlined
 = 5.21.1216.1028 - 2021-12-16 =
-* Minor code changes to improve efficiency
+* Tweak: Minor code changes to improve efficiency
 = 5.21.0607.1741 - 2021-06-07 =
-* Updates to Field Hints options
-* Other minor bug fixes and cosmetic changes
+* Tweak: Updates to Field Hints options
+* Tweak: Other minor bug fixes and cosmetic changes
 = 4.22.1214.1830 - 2020-12-14 =
-* Added verification for successful access to UserGuide
+* Bug Fix: Added verification for successful access to UserGuide
 = 4.22.0924.1816 - 2020-09-24 =
-* Cosmetic changes and minor bug fixes
+* Tweak: Cosmetic changes and minor bug fixes
 = 4.22.0919.1923 - 2020-09-19 =
-* New controls to ensure only one instance of App is running
-= 4.22.0912.1927, 4.22.0912.1751, 4.21.0912.1539 - 2020-09-12 =
-* Data Record updates and file conversion methods added
-= 4.21.0911.1635, 4.21.0911.1107 - 2020-09-11 =
-* Updated Cabinet Defaults to display values as fractions
-* Minor bug fixes and cosmetic changes
-= 4.21.0910.1714, 4.21.0910.1630 - 2020-09-10 =
+* Enhancement: New controls to ensure only one instance of App is running
+= 4.22.0912.1927 - 2020-09-12 =
+* Enhancement: Data Record updates and file conversion methods added
+= 4.21.0911.1635 - 2020-09-11 =
+* Enhancement: Updated Cabinet Defaults to display values as fractions
+* Tweak: Minor bug fixes and cosmetic changes
+= 4.21.0910.1714 - 2020-09-10 =
 * BugFix: Update to Gap & Overlay performed even when no Doors specified - this has been fixed
-* Minor forms adjustments
+* Tweak: Minor forms adjustments
 = 4.21.0909.1905 - 2020-09-09 =
-* CabGuide renamed to User Guide
+* Tweak: CabGuide renamed to User Guide
 = 4.21.0908.0953 - 2020-09-08 =
-* Minor bug fixes and cosmetic changes
-= 4.21.0907.1826, 4.21.0907.1247 - 2020-09-07 =
-* Several improvements to Field Hints in forms
-* Several input fields added, some fields moved, some fields resized on forms
-= 4.20.905.1852, 4.20.0905.0951 - 2020-09-05 =
-* Incorporated option to use Corner Braces in cabinet tops where full top not required
-* Minor changes to Notes field
-= 4.20.0901.1226, 4.20.0901.1209 - 2020-09-01 =
-* Cabinet Defaults form - removed unused fields and minor changes to remaining fields
+* Tweak: Minor bug fixes and cosmetic changes
+= 4.21.0907.1826 - 2020-09-07 =
+* Tweak: Several improvements to Field Hints in forms
+* Enhancement: Several input fields added, some fields moved, some fields resized on forms
+= 4.20.905.1852 - 2020-09-05 =
+* Enhancement: Incorporated option to use Corner Braces in cabinet tops where full top not required
+* Tweak: Minor changes to Notes field
+= 4.20.0901.1226 - 2020-09-01 =
+* Enhancement: Cabinet Defaults form - removed unused fields and minor changes to remaining fields
 = 4.20.0831.1756 - 2020-08-31 =
-* BugFix: Some forms not remembering Hints settings from previous sessions - this has been fixed
+* BugFix: Some forms losing Hints settings from previous sessions - this has been fixed
 = 4.20.0829.1645 - 2020-08-29 =
-* Cosmetic changes to field arrangements in Cabinet Details form
-= 4.20.0828.1904, 4.20.0828.1804 - 2020-08-28 =
-* Cosmetic changes to Cabinet Design form
-* Code efficiencies implemented
-= 4.20.0827.1929, 4.20.0827.1452, 4.20.0827.1242, 4.20.0827.1009 - 2020-08-27 =
+* Tweak: Cosmetic changes to field arrangements in Cabinet Details form
+= 4.20.0828.1904 - 2020-08-28 =
+* Tweak: Cosmetic changes to Cabinet Design form
+* Tweak: Code efficiencies implemented
+= 4.20.0827.1929 - 2020-08-27 =
 * BugFix: Cabinet Design form had cursor going to first field when not necessary - this has been fixed
 * Enhancement: Cabinet Design form now has Active Tab highlighted
-= 4.20.0826.1650, 4.20.0826.1628 - 2020-08-26 =
-* Extended calculations required when using corner braces
-* Minor bug fixes
-= 4.20.0825.1921, 4.20.0825.1619, 4.20.0825.1529 - 2020-08-25 =
+= 4.20.0826.1650 - 2020-08-26 =
+* Enhancement: Extended calculations required when using corner braces
+* Tweak: Minor bug fixes
+= 4.20.0825.1921 - 2020-08-25 =
 * BugFix: Calculation for opening size with multiple drawers did not allow for Gap between drawers - this has been fixed
-* Several minor changes to Cabinet Input forms
-= 4.20.0817.1533, 4.20.0817.1434, 4.20.0817.1258, 4.20.0817.1203 - 2020-08-17 =
+* Tweak: Several minor changes to Cabinet Input forms
+= 4.20.0817.1533 - 2020-08-17 =
 * BugFix: Drawer section was not being cleared when there were no Drawers - this has been fixed
 * BugFix: Cabinet Input (some tabs) were not displaying need to accept changes - this has been fixed
-* Other minor bug fixes and enhancements
-= 4.20.0810.1427, 4.20.0810.1249, 4.20.0810.1020 - 2020-08-10 =
-* New Requirement: Notes to allow user to specify customization of selected standard parts
+* Tweak: Other minor bug fixes and enhancements
+= 4.20.0810.1427 - 2020-08-10 =
+* Enhancement: Notes to allow user to specify customization of selected standard parts
 = 3.20.0808.1934 - 2020-08-08 =
-* Record conversion to allow addition of Notes
+* Enhancement: Record conversion to allow addition of Notes
 = 3.20.0806.1105 - 2020-08-06 =
 * BugFix: Changing attributes of a .job file to ReadOnly could crash the App - this has been fixed
 * BugFix: Changing values in some fields was not always recalculated - this has been fixed
-* Other minor enhancements
-= 3.20.0803.1843, 3.20.0803.1508, 3.20.0803.1233 - 2020-08-03 =
+* Tweak: Other minor enhancements
+= 3.20.0803.1843 - 2020-08-03 =
 * BugFix: CutList for Doors (DIY) was incorrectly counting Stiles and Rails - this has been fixed
-* Cabinet tops are now checked: Base units default to corner braces while Wall units default to full tops. User is now warned when they want to deviate from this standard
-* Other minor enhancements and bug fixes
+* Enhancement: Cabinet tops are now checked: Base units default to corner braces while Wall units default to full tops. User is warned when they want to deviate from this standard
+* Tweak: Other minor enhancements and bug fixes
 = 3.20.0730.1523 - 2020-07-30 =
-*
-= 3.20.0729.1656, 3.20.0729.1534 - 2020-07-29 =
-*
-= 3.20.0708.1838, 3.20.0708.1222 - 2020-07-08 =
-* 
+* BugFix: When setting Preferences and folder not defined, form would get messed - this has been fixed
+= 3.20.0729.1656 - 2020-07-29 =
+* Tweak: Minor bug fixes
+* Tweak: Forms resized and some fields repositioned
+* Tweak: User Guide updated
+= 3.20.0708.1838 - 2020-07-08 =
+* Enhancement: New error codes added
+* Enhancement: Help Menu updated to include Hints option
 = 3.20.0707.1455 - 2020-07-04 =
-* 
-= 3.20.0623.1452, 3.20.0623.1253 - 2020-06-23 =
-* 
-= 3.20.0622.1511, 3.20.0622.1346 - 2020-06-22 =
-* 
+* BugFix: When no cabinets in project, Current Project name would have garbage data - this has been fixed
+* Tweak: Field hints in several sections have improved descriptions
+= 3.20.0623.1452 - 2020-06-23 =
+* Tweak: Icons rearranged
+= 3.20.0622.1511 - 2020-06-22 =
+* Enhancement: Added Hints option
+* Tweak: minor bug fixes
+* Tweak: several fields renamed and rearranged
 = 3.20.0619.1855 - 2020-06-19 =
-* 
+* Tweak: StatusBar at bottom of froms adjusted
 = 3.20.0618.1624 - 2020-06-18 =
-* 
+* Tweak: Projects DropDown - default text removed
 = 3.20.0612.1911 - 2020-06-12 =
-* 
+* Tweak: Discontinued several Error Codes
 = 3.20.0611.1842 - 2020-06-11 =
-* 
+* Tweak: Cabinet Input form - resized top part
 = 3.20.0604.0936 - 2020-06-04 =
-* 
-= 3.20.0516.1031, 3.20.0516.0911 - 2020-05-16 =
-* 
+* Enhancement: Upgraded handling of Forms to streamline processes
+= 3.20.0516.1031 - 2020-05-16 =
+* Enhancement: Revised Help/About menu option
 = 3.20.0515.0926 - 2020-05-15 =
-* 
+* Tweak: Adjusted some Font sizes and realigned some fields
 = 3.20.0514.1926, 3.20.0514.1443, 3.20.0514.1156 - 2020-05-14 =
-* 
-= 3.20.0513.1941, 3.20.0513.1646 - 2020-05-13 =
-*
+* Enhancement: Menu Option - Help/About added
+* Tweak: Added new Error Codes and reworded others
+* Tweak: Added continuous display for current project folder
+* Tweak: Cabinet Input - Some buttons discontinued
+= 3.20.0513.1941 - 2020-05-13 =
+* Tweak: Field sizes adjusted, repositioned, Tab stops reordered
+* Status: This was a conversion from a previous code set and is now functionally correct but some minor bugs remaining.
