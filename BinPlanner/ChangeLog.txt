@@ -1,16 +1,16 @@
 == ChangeLog: BinPlanner ==
 = 3.25.0616.1552 - 2025-06-16 =
-* Support option permanently removed from application
+* FallBack: Support option permanently removed from application
 = 3.25.0407.1616 - 2025-04-07 =
 * Bug Fix: Main form - Help/UserGuide was not working - this has been fixed
 * Bug Fix: Main form - Button to view Project had incorrect labelling - this has been fixed
-* Term EULA was confusing - this has been renamed to License
-* New interface
-* Several minor bug fixes
+* Tweak: Term EULA was confusing - this has been renamed to License
+* Tweak: New interface
+* Tweak: Several minor bug fixes
 = 3.25.0326.1632 - 2025-03-26 =
-* Updater has been improved, tested, and implemented
+* Enhancement: Updater has been improved, tested, and implemented
 = 2.25.0306.1127 - 2025-03-06 =
-* Help / Support suspended pending reviews
+* Fall-Back: Help / Support suspended pending reviews
 = 2.25.0219.1057 - 2025-02-19 =
 *  Updater has been revamped and released for Beta Testing
 = 2.24.0529.1919 - 2024-05-29 =
