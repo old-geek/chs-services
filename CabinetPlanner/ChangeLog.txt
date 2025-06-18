@@ -68,7 +68,7 @@
 * Tweak: Updates to Field Hints options
 * Tweak: Other minor bug fixes and cosmetic changes
 = 4.22.1214.1830 - 2020-12-14 =
-* Bug Fix: Added verification for successful access to UserGuide
+* BugFix: Added verification for successful access to UserGuide
 = 4.22.0924.1816 - 2020-09-24 =
 * Tweak: Cosmetic changes and minor bug fixes
 = 4.22.0919.1923 - 2020-09-19 =
