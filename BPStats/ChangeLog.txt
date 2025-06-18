@@ -20,23 +20,23 @@
 * Tweak: Version section (bottom of several forms) resized
 * Tweak: Minor bug fixes and enhancements
 = 2.24.0401.1504 - 2024-04-01 =
-* Bug Fix: Dates and Times were causing failures in some computer configurations. This has been fixed.
+* BugFix: Dates and Times were causing failures in some computer configurations. This has been fixed.
 * Feature: 12-hr / 24-hr Time Format - Some users work with a 24-hr clock while others prefer 12-hr clocks that append AM or PM to the time. This (new) option has moved to the main screen under Options at the top of the screen. The setting is retained and only needs to be changed when your preference changes.
-* Bug Fix: Date and Time data is now displayed as dictated by your computer settings
-* Bug Fix: Summary Charts - Suppress display/print of Prescribed Chart when no Prescribed values present
+* BugFix: Date and Time data is now displayed as dictated by your computer settings
+* BugFix: Summary Charts - Suppress display/print of Prescribed Chart when no Prescribed values present
 * Tweak: Software Version - This information was displayed in the bottom-right corner of most Forms (screens) but has now been replaced with the word Version. When the mouse is moved over this text, the actual Version Number will be displayed.
 * Enhancement: Support Requests: This option is available by clicking Help and choosing Support at the top of most Forms (screens / windows).
 * Tweak: Copyright notice has been updated
 = 2.24.0306.1447 - 2024-03-06 =
 * Tweak: Charts/Graphs - After changing a Date for reporting, you must click in the Heading area before Data collection is executed
-* Bug Fix: When creating a New Client, a condition could arise that would create an invalid Client Record - this has been fixed.
+* BugFix: When creating a New Client, a condition could arise that would create an invalid Client Record - this has been fixed.
 * Tweak: Input areas on forms have been repositioned to improve displays.
 = 2.24.0227.1512 - 2024-02-27 =
 * BugFix: Graphs displaying values on bars was showing zero-values too far below base line. This has been changed to bring the Zero-value immediately below the Base Line.
 * Tweak: Report selections for Graphs showed the Summary report at the bottom of the list while the Summary actually appears at the beginning of the displays - this has been updated to appear in its correct sequence.
-* Heart Rate (Pulse) Graph had incorrect Heading - this has been corrected.
+* Tweak: Heart Rate (Pulse) Graph had incorrect Heading - this has been corrected.
 = 2.24.0224.1009 - Beta Release - 2024-02-24 =
-* Beta Release providing substantial enhancements by improving data input, analysis, and reporting.
+* Critical: Beta Release providing substantial enhancements by improving data input, analysis, and reporting.
 * Client Information input section:
 *    Streamlined to collect only basic Client Information
 *    Option to input Prescribed Targets
@@ -53,8 +53,8 @@
 *    Grid (bottom left): Displays values collected from the Month's data showing Average, Lowest, and Highest for each of Systolic, Diastolic, and Pulse
 * Tweak: Other minor bug fixes
 = 2.24.0119.1852 - 2024-01-19 =
-* Bug Fix: When New Client selected and subsequently cancelled, an error message would be incorrectly generated when next choosing to Input data.
-* Bug Fix: Forms (windows) could be moved outside the screen boundaries - this is no longer possible.
+* BugFix: When New Client selected and subsequently cancelled, an error message would be incorrectly generated when next choosing to Input data.
+* BugFix: Forms (windows) could be moved outside the screen boundaries - this is no longer possible.
 * Tweak: Typos in error messages and hints corrected.
 = 2.23.1218.1609 - 2023-12-18 =
 * Enhancement: Added Support option to Help menu
@@ -68,9 +68,9 @@
 * Tweak: Some minor changes and typos corrected
 * Tweak: Other minor bug fixes
 = 2.23.1117.1203 - 2023-11-17 =
-* Bug Fix: Bottom StatusBar could get distorted after form (window) was resized this has been fixed
+* BugFix: Bottom StatusBar could get distorted after form (window) was resized - this has been fixed
 = 2.23.1021.1851 - 2023-10-21 =
-* Bug Fix: Main Form - When Client data is missing or incorrect, access to Data Input and Graphs & Reports is now disabled until the Client information is updated.
+* BugFix: Main Form - When Client data is missing or incorrect, access to Data Input and Graphs & Reports is now disabled until the Client information is updated.
 * Enhancement: Bottom-left corner of Windows (forms) now has direct link to the EULA (License) as published on the BPStats WebSite
 * Enhancement: Bottom Center (Copyright area) when clicked will present a Disclaimer
 * Enhancement: Client Information - Collects additional detail that enhances age-related Blood Pressure calculations
@@ -92,7 +92,7 @@
 *    Updated documentation to show latest features.
 *    Now includes latest Version Number of application
 = 2.23.0601.1853 - 2023-06-01 =
-* Bug Fix: Graphs & Reports
+* BugFix: Graphs & Reports
 *    Summary incorrectly showed zero values on the Average line. This has been updated in the current release and can be downloaded manually.
 * Tweak: Graphs & Reports: cosmetic changes
 *    Active Tab is now colored
@@ -110,7 +110,7 @@ UserGuide.pdf
 = 2.23.0425.1642 - 2023-04-25 =
 * Enhancement: Added option to display a Blood Chart showing how readings are classified. (Source: American Medical Association, Mayo Clinic, and Canadian Health Services)
 = 2.23.0328.1521 - 2023-03-28 =
-* Enhancement: Charts: new Tab add to show Summary data (Beta release)
+* Enhancement: Charts: new Tab added to show Summary data (Beta release)
 = 2.23.0303.1609 - 2023-03-03 =
 * Enhancement: EULA and ReadMe updated to Rich Text format
 = 2.23.0223.1629 - 2023-02-23 =
@@ -123,18 +123,18 @@ UserGuide.pdf
 * Minor bug fixes
 = 2.22.0608.1606 - 2022-06-08 =
 * Tweak: Data input is now sorted in Ascending order on first display
-* Bug Fix: Input error on Time of Day fixed
-* Bug Fix: Missing titles for SYS, DIA, Pulse corrected
+* BugFix: Input error on Time of Day fixed
+* BugFix: Missing titles for SYS, DIA, Pulse corrected
 = 2.22.0606.1401 - 2022-06-06 =
-* Bug Fix: Forms now remain in screen display boundaries
-* Bug Fix: Was possible to input a future date - this has been fixed
+* BugFix: Forms now remain in screen display boundaries
+* BugFix: Was possible to input a future date - this has been fixed
 = 2.22.0601.1519 - 2022-06-01 =
 * Enhancement: Data Input now collects details on separate form
 * Tweak: Improved Date and time formatting
 * Tweak: Code changes to improve efficiency
 = 2.22.0531.1916 - 2022-05-31 =
-* Bug Fix: Graphs - some bars were displaying wider than normal
-* Tweak: Application renamedd from Blood Pressure Statistics to BPStats
+* BugFix: Graphs - some bars were displaying wider than normal
+* Tweak: Application renamed from Blood Pressure Statistics to BPStats
 * Tweak: Minor code changes to improve Data Input flow
 = 2.22.0107.1847 - 2022-01-07 =
 * Tweak: Data Input reformatted to improve work flow
