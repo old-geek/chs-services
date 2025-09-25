@@ -1,4 +1,12 @@
 == ChangeLog: BinPlanner ==
+= 4.25.0923.1427 - 2025-09-27 =
+* Significant Overhaul *
+* Revamped access to Support *
+* Error Logging to assist with support *
+* Disclaimer updated *
+* Enhanced Error messages *
+* Minor bug fixes and Tweaks *
+* User Manual has been updated *
 = 3.25.0616.1552 - 2025-06-16 =
 * FallBack: Support option permanently removed from application
 = 3.25.0407.1616 - 2025-04-07 =
