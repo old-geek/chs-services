@@ -1,5 +1,8 @@
 == ChangeLog: BinPlanner ==
-= 4.25.0923.1427 - 2025-09-27 =
+= 4.25.0926.1521 - 2025-09-26 =
+* Updated Icon for main form
+* Updated information in Help -> About
+= 4.25.0923.1427 - 2025-09-23 =
 * Significant Overhaul *
 * Revamped access to Support *
 * Error Logging to assist with support *
