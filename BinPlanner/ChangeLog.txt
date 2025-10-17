@@ -1,98 +1,129 @@
-== ChangeLog: BinPlanner ==
-= 4.25.0927.1736 - 2025-09-27 =
-* Updated Copyright *
-= 4.25.0926.1521 - 2025-09-26 =
-* Updated Icon for main form
-* Updated information in Help -> About
-= 4.25.0923.1427 - 2025-09-23 =
-* Significant Overhaul *
-* Revamped access to Support *
-* Error Logging to assist with support *
-* Disclaimer updated *
-* Enhanced Error messages *
-* Minor bug fixes and Tweaks *
-* User Manual has been updated *
-= 3.25.0616.1552 - 2025-06-16 =
-* FallBack: Support option permanently removed from application
-= 3.25.0407.1616 - 2025-04-07 =
-* BugFix: Main form - Help/UserGuide was not working - this has been fixed
-* BugFix: Main form - Button to view Project had incorrect labelling - this has been fixed
-* Tweak: Term EULA was confusing - this has been renamed to License
-* Tweak: New interface
-* Tweak: Several minor bug fixes
-= 3.25.0326.1632 - 2025-03-26 =
-* Enhancement: Updater has been improved, tested, and implemented
-= 2.25.0306.1127 - 2025-03-06 =
-* Fall-Back: Help / Support suspended pending reviews
-= 2.25.0219.1057 - 2025-02-19 =
-*  Updater has been revamped and released for Beta Testing
-= 2.24.0529.1919 - 2024-05-29 =
-* BugFix: Cut-List Bins Required - sometimes showed a ghosted background - this has been fixed
-* Security: RTF files can be exploited so these files have been converted to TXT format
-* Tweak: Forms: Many have the word Version displayed in the bottom-right corner. The version number can now be seen by moving the mouse over this word.
-* Tweak: (Forms) Some fields were misaligned - this has been fixed
-* Tweak: Help menus have been revised
-* Tweak: Disclaimer has been updated
-* Tweak: Help menu - Readme has been removed since this option is available in the Application Start Menu
-* Tweak: EULA has been moved to the bottom-left corner of forms and now redirects to the most recent copy posted on the Website
-* Docs: User Manual has been updated
-= 2.24.0427.1842 - 2024-04-27 =
-* Tweak: Forms - Some fields were misaligned - this has been fixed
-* Tweak: Help Menu - ReadMe has been removed since this option is available in the Application Start Menu
-* Tweak: EULA has been moved to the bottom-left corner of forms and now redirects to the most recent copy posted on the Website
-= 2.24.0120.1839 - 2024-01-20 =
-* Tweak: Cosmetic changes to Cut-List
-*    Data now centered in display areas
-*    Slight adjustments in data positioning
-*    Minor changes to some descriptions
-* Tweak: Several form sizes slightly increased
-* Fix: Copyright updated
-* BugFix: Folder location was dimmed and now is clearly visible
-* Tweak: Some fields have been increased in size
-* BugFix: Some forms could be moved off the screen - this is no longer possible but they can still be minimized
-= 2.24.0113.1601 - 2024-01-13 =
-* Tweak: Several internal code changes to increase efficiency
-* Tweak: Software updates streamlined
-* Tweak: Application startup now informs userwhen files are being loaded
-* Tweak: Several updates to streamline future enhancements
-= 2.23.1221.1658 - 2023-12-21 =
-* BugFix: Sometimes, the Layout could be empty when data was present - this has been fixed
-* Tweak: Minor updates to improve performance
-= 2.23.1218.1138 - 2023-12-18 =
-* Feature: Support option added to Help menu
-* Tweak: Minor updates to improve performance
-= 2.23.1211.1239 - 2023-12-11 =
-* Tweak: Update process now informs user of its progress
-* Tweak: Cosmetic changes and minor bug fixes
-= 2.23.1208.1214 - 2023-12-08 =
-* Tweak: Improved performance of application update process
-* Minor bug fixes
-= 2.23.1117.1109 - 2023-11-17 =
-* BugFix: Bottom StatusBar was getting distorted when form was resized - this has been fixed
-= 2.23.1116.1604 - 2023-11-16 =
-* Feature: Bottom area of most forms have been updated to provide more options
-* BugFix: Several minor bug fixes and cosmetic changes
-= 2.23.0303.1601 - 2023-03-03 =
-* Tweak: License content updated
-* Tweak: Readme files have been updated
-= 2.23.0301.1457 - 2023-03-01 =
-* Tweak: Error 504 has been reworded
-* Tweak: Project Name has been added to top of forms
-= 2.23.0218.1849 - 2023-02-18 =
-* BugFix: Hints state not being updated correctly - this has been fixed
-= 2.23.0216.1152 - 2023-02-16 =
-* Tweak: Application Updater improved reliability
-= 2.22.0625.1254 - 2022-06-25 =
-* Tweak: Corrected some minor typos in forms and docs
-= 2.21.0621.1638 - 2021-06-21 =
-* BugFix: Creating a new Project sometimes left old data in the Projects Drop-down list - this has been fixed
-= 2.21.0619.1534 - 2021-06-19 =
-* Tweak: Improved file handling
-* BugFix: Project files with ReadOnly state could be opened for update - this has been fixed
-= 2.21.0611.1813 - 2021-06-11 =
-* Enhancement: Hints in several Input Fields have been improved
-= 2.20.1214.1815 - 2020-12-14 =
-* Minor Bug fixes
-= 2.20.0725.1806 - 2020-07-25 =
-* BugFix: Some application files were not being validated - this has been fixed
-* Other minor bug fixes and improvements
+ChangeLog: BinPlanner
+
+4.25.1017.1553 (2025-10-17)
+. Was possible to allocate an illegal filename and Project Name - this has been fixed
+
+4.25.0927.1736 (2025-09-27)
+. Updated Copyright
+
+4.25.0926.1521 (2025-09-26)
+. Updated Icon for main form
+. Updated information in Help -> About
+
+4.25.0923.1427 (2025-09-23)
+. Significant Overhaul
+. Revamped access to Suppor
+. Error Logging to assist with support
+. Disclaimer updated
+. Enhanced Error messages
+. Minor bug fixes and Tweaks
+. User Manual has been updated
+
+3.25.0616.1552 (2025-06-16)
+. FallBack: Support option permanently removed from application
+
+3.25.0407.1616 (2025-04-07)
+. BugFix: Main form - Help/UserGuide was not working - this has been fixed
+. BugFix: Main form - Button to view Project had incorrect labelling - this has been fixed
+. Tweak: Term EULA was confusing - this has been renamed to License
+. Tweak: New interface
+. Tweak: Several minor bug fixes
+
+3.25.0326.1632 (2025-03-26)
+. Enhancement: Updater has been improved, tested, and implemented
+
+2.25.0306.1127 (2025-03-06)
+. Fall-Back: Help / Support suspended pending reviews
+
+2.25.0219.1057 (2025-02-19)
+.  Updater has been revamped and released for Beta Testing
+
+2.24.0529.1919 ( 2024-05-29)
+. BugFix: Cut-List Bins Required - sometimes showed a ghosted background - this has been fixed
+. Security: RTF files can be exploited so these files have been converted to TXT format
+. Tweak: Forms: Many have the word Version displayed in the bottom-right corner. The version number can now be seen by moving the mouse over this word.
+. Tweak: (Forms) Some fields were misaligned - this has been fixed
+. Tweak: Help menus have been revised
+. Tweak: Disclaimer has been updated
+. Tweak: Help menu - Readme has been removed since this option is available in the Application Start Menu
+. Tweak: EULA has been moved to the bottom-left corner of forms and now redirects to the most recent copy posted on the Website
+. Docs: User Manual has been updated
+
+2.24.0427.1842 (2024-04-27)
+. Tweak: Forms - Some fields were misaligned - this has been fixed
+. Tweak: Help Menu - ReadMe has been removed since this option is available in the Application Start Menu
+. Tweak: EULA has been moved to the bottom-left corner of forms and now redirects to the most recent copy posted on the Website
+
+2.24.0120.1839 (2024-01-20)
+. Tweak: Cosmetic changes to Cut-List
+  .  Data now centered in display areas
+  .  Slight adjustments in data positioning
+  .  Minor changes to some descriptions
+. Tweak: Several form sizes slightly increased
+. Fix: Copyright updated
+. BugFix: Folder location was dimmed and now is clearly visible
+. Tweak: Some fields have been increased in size
+. BugFix: Some forms could be moved off the screen - this is no longer possible but they can still be minimized
+
+2.24.0113.1601 (2024-01-13)
+. Tweak: Several internal code changes to increase efficiency
+. Tweak: Software updates streamlined
+. Tweak: Application startup now informs userwhen files are being loaded
+. Tweak: Several updates to streamline future enhancements
+
+2.23.1221.1658 (2023-12-21)
+. BugFix: Sometimes, the Layout could be empty when data was present - this has been fixed
+. Tweak: Minor updates to improve performance
+
+2.23.1218.1138 (2023-12-18)
+. Feature: Support option added to Help menu
+. Tweak: Minor updates to improve performance
+
+2.23.1211.1239 (2023-12-1)
+. Tweak: Update process now informs user of its progress
+. Tweak: Cosmetic changes and minor bug fixes
+
+2.23.1208.1214 (2023-12-08)
+. Tweak: Improved performance of application update process
+. Minor bug fixes
+
+2.23.1117.1109 (2023-11-17)
+. BugFix: Bottom StatusBar was getting distorted when form was resized - this has been fixed
+
+2.23.1116.1604 (2023-11-16)
+. Feature: Bottom area of most forms have been updated to provide more options
+. BugFix: Several minor bug fixes and cosmetic changes
+
+2.23.0303.1601 (2023-03-03)
+. Tweak: License content updated
+. Tweak: Readme files have been updated
+
+2.23.0301.1457 (2023-03-01)
+. Tweak: Error 504 has been reworded
+. Tweak: Project Name has been added to top of forms
+
+2.23.0218.1849 (2023-02-18)
+. BugFix: Hints state not being updated correctly - this has been fixed
+
+2.23.0216.1152 (2023-02-16)
+. Tweak: Application Updater improved reliability
+
+2.22.0625.1254 (2022-06-25)
+. Tweak: Corrected some minor typos in forms and docs
+
+2.21.0621.1638 (2021-06-21)
+. BugFix: Creating a new Project sometimes left old data in the Projects Drop-down list - this has been fixed
+
+2.21.0619.1534 (2021-06-19)
+. Tweak: Improved file handling
+. BugFix: Project files with ReadOnly state could be opened for update - this has been fixed
+
+2.21.0611.1813 (2021-06-11)
+. Enhancement: Hints in several Input Fields have been improved
+
+2.20.1214.1815 (2020-12-14)
+. Minor Bug fixes
+
+2.20.0725.1806 (2020-07-25)
+. BugFix: Some application files were not being validated - this has been fixed
+. Other minor bug fixes and improvements
