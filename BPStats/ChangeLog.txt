@@ -1,7 +1,7 @@
 Changelog: BPStats
 
 3.25.1016.1422 (2025-10-16)
-. Tweak: reassignment of Copyright variable
+. Tweak: Update to Copyright notation
 
 3.25.0616.1656 (2025-06-16)
 . Feature: Support and Donation options removed
